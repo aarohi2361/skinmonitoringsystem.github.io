@@ -16,10 +16,16 @@ h3{
     color:#0F044C;
 }
 
-img.doctor{
+.middle_body{
     position: relative;
-    
-    
+    height: 300px;
+}
+
+.middle_body img{
+  position: absolute;
+  height: 260px;
+  left: 490px;
+  bottom: 50px;
 }
 
 
