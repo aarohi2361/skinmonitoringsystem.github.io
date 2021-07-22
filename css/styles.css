@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    background-color: rgb(250, 246, 246);
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+h1{
+    color:#0F044C ;
+    font-family: 'Courgette', cursive;
+    font-size: 80px;
+}
+h3{
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+    color:#0F044C;
+}
+
+img.doctor{
+    position: absolute;
+    left: 430px;
+    top:250px;
+    width: 360px;
+    
+}
+
+
+.upper_body {
+   display: block;
+   width: auto;
+    height: 130px;
+    margin-top: 0%;
+    background-color: #F8E2CF;
+}
+
+.upper_body p{
+    font-size: 30px;
+    padding-top: 55px;
+    padding-left: 10px;
+}
+button{
+    height: 60px;
+    width: 270px;
+    font-size: 25px;
+    background-color: greenyellow;
+    border: greenyellow;
+    text-decoration: dotted;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    padding: 5px 13px;
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
+#custom-text {
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #aaa;
+    font-size: 25px;
+    text-decoration: underline;
+  }
+
+  .lower_body{
+    display: block;
+    width: auto;
+     height: 110px;
+     margin-top: 130px;
+     background-color: #FCD8D4;
+     text-align: center;
+   
+   
+     padding: 50px 0px 80px 0px;
+     
+ }
+ .lower_body p{
+     font-style: arial ;
+ }
+ .mail{
+    box-sizing: border-box;
+    border: 10px ;
+    background-color: white;
+    width: 150px;
+    height: 39px;
+    float: left;
+    position: absolute;
+    left: 150px;
+}
+.Linked{
+    width: 170px;
+    height: 39px;
+    box-sizing: border-box;
+    border: 1px #CDF0EA;
+    border: 10px ;
+    background-color: white;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 58px;
+   
+   
+}
+.call_me{
+    height: 39px;
+    box-sizing: border-box;
+    border: 1px #353d3c;
+    border: 10px ;
+    background-color: white;
+    width: 150px;
+    display: inline;
+    float: right;
+    position: relative;
+    top: 2px;
+    bottom: 150px;
+    right: 150px;
+}
+
+  
+  
+
+
+
+    
+    
