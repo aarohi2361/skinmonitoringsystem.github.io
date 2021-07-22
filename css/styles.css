@@ -17,16 +17,18 @@ h3{
 }
 
 .middle_body{
-    position: relative;
+    margin-left: 360px;
+   
+    width: 1000px;
     height: 300px;
+    text-align: center;
 }
 
 .middle_body img{
-  position: absolute;
-  height: 260px;
-  left: 250px;
-  bottom: 50px;
-}
+    
+    height: 260px;
+    float: left;
+  }
 
 
 .upper_body {
